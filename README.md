@@ -12,3 +12,7 @@ This program changes the images to text, extract the dates and times, and create
 ## 2022/12/02
 - Installed pytesseract and tested
 - Trying to solve problem that pytesseract.image_to_data doesn't create correct table
+
+## 2022/12/08
+- Used opencv to change the image to black-white image. After that, pytesseract extracts the text better.
+- Tested using RegEx to extract and format the actual events.
