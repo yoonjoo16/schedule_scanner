@@ -1,7 +1,9 @@
-/schema-img
 /pytesseract-test
 /MyCalendar
 /.ipynb_checkpoints
 /.venv
 /.venv2
+/.vscode
+/schema-img/dec_original.jpg
+/schema-img/jan_original.jpg
 my.ics
